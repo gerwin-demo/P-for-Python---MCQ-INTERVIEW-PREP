@@ -13,8 +13,15 @@
 
 <br/>
 
-<!-- Live Demo Button -->
-[![🚀 Live Demo](https://img.shields.io/badge/🚀%20%20LIVE%20DEMO%20%20→-0a0e1a?style=for-the-badge&logoColor=white)](https://gerwin-demo.github.io/P-for-Python---MCQ-INTERVIEW-PREP/)
+<!-- 🔥 LIVE LINK — HIGHLIGHTED FIRST -->
+<a href="https://gerwin-demo.github.io/P-for-Python---MCQ-INTERVIEW-PREP/">
+  <img src="https://img.shields.io/badge/🌐%20LIVE%20SITE%20%20→%20%20Click%20to%20Start%20Exam-10b981?style=for-the-badge&logoColor=white" height="45"/>
+</a>
+
+<br/><br/>
+
+> ### 🔗 [https://gerwin-demo.github.io/P-for-Python---MCQ-INTERVIEW-PREP/](https://gerwin-demo.github.io/P-for-Python---MCQ-INTERVIEW-PREP/)
+> **👆 Click the link above to open the exam in your browser — no install needed!**
 
 <br/><br/>
 
